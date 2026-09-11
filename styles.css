@@ -1128,7 +1128,7 @@ a {
 }
 /* Keep the decorative shape clear of the headline at every breakpoint. */
 .hero__shape {
-  top: -150px;
+  top: -130px;
   left: -130px;
   width: clamp(450px, 38vw, 700px);
 }
